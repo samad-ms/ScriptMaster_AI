@@ -1,4 +1,4 @@
-# ScriptMaster AI
+# ScriptMaster AI  - live link - https://samad-ms-scriptmaster-ai-app-7jj2dk.streamlit.app/
 
 ScriptMaster AI is an AI-powered tool designed to help content creators generate YouTube video scripts efficiently. Leveraging OpenAI's GPT-3.5 and LangChain, ScriptMaster AI provides a streamlined solution for creating compelling video content.
 
